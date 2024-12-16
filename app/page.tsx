@@ -1,8 +1,6 @@
 "use client";
 
-import Image from "next/image";
-import { useState } from "react";
-import styles from "@/page.module.css";
+
 import { Button } from "@/components/ui/button";
 import { LoginButton } from "@/components/auth/login-button";
 

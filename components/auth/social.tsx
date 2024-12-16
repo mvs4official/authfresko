@@ -1,5 +1,5 @@
 "use client";
-import { Poppins } from "next/font/google";
+
 import { FcGoogle } from "react-icons/fc";
 import { FaFacebook } from "react-icons/fa";
 import { Button } from "@/components/ui/button";
