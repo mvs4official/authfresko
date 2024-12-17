@@ -30,7 +30,7 @@ export const register = async (values: z.infer<typeof RegisterSchema>) => {
 
     
     // ... rest of the login logic ...
-    return { success: "User Created!" };
+    return { success: "Emial End !!" };
   };
 
   
