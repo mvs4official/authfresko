@@ -9,9 +9,9 @@ const logoutPage = () => {
                 <p>Access Denied</p>
             </div>
             <div>
-                <a href="https://authfresko.vercel.app/auth/login">
+                <a href="https://homefresko.netlify.app/">
             <Button className="w-[460px] bg-[#9E896A] hover:bg-[#2a8929c4]">
-               Go To Login Page
+               Go To Home
             </Button>
             </a>
             </div>
